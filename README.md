@@ -13,11 +13,4 @@ This project is a simple Spotify clone created using HTML and CSS. It mimics the
 
 ## Screenshots
 
-Include screenshots or gifs demonstrating the different features and pages of your Spotify clone.
-
-## Installation
-
-Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/your-username/spotify-clone.git
+![Screenshot 1](<Screenshot 2024-03-01 182618.png>)
